@@ -38,10 +38,10 @@ a) Implement a function called BruteForceSort that sorts an array using the brut
 Task 3: Two-Sum Problem
 a) Given an array of integers, write a program that finds if there are two numbers that add up to a specific target. You may assume that each input would have exactly one solution, and you may not use the same element twice. Optimize the solution for time complexity.
 
-Task 3: Understanding Functions through Arrays
+Task 4: Understanding Functions through Arrays
 a) Write a recursive function named SumArray that calculates and returns the sum of elements in an array, demonstarte with example.
 
-Task 4: Advanced Array Operations
+Task 5: Advanced Array Operations
 a)  Implement a C# method SliceArray that takes an array, a starting index, and an end index, then returns a new array containing the elements from the start to the end index.
 b) Create a recursive function in C# to find the nth element of a Fibonacci sequence and store the first n elements in an array.
 
